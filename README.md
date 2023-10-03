@@ -1,2 +1,0 @@
-# Komizarahcare
-Beauty
