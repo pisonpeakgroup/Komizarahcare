@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Thanks for Checking us out!
 
-Template Name: PhotoFolio
-Template URL: https://bootstrapmade.com/photofolio-bootstrap-photography-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: KomiZarah & nPhotoFolio
+Author: Pisonkeak.com & BootstrapMade.com
+License: https://pisonpeak.com/license/ and https://bootstrapmade.com/license/
