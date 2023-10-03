@@ -1,3 +1,7 @@
+# Komizarahcare
+Beauty
+
+
 Thanks for Checking us out!
 
 Template Name: KomiZarah & nPhotoFolio
